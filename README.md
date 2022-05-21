@@ -60,7 +60,7 @@ cv2.DestroyAllWindows
 ![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Erosion-and-Dilation/blob/main/exp%2010-1.jpeg?raw=true)
 
 ### Display the Eroded Image
-![output(https://github.com/Shaik-sameer-AIML/Implementation-of-Erosion-and-Dilation/blob/main/exp%2010-2.jpeg?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Erosion-and-Dilation/blob/main/exp%2010-2.jpeg?raw=true)
 
 ### Display the Dilated Image
 ![output](https://github.com/Shaik-sameer-AIML/Implementation-of-Erosion-and-Dilation/blob/main/exp%2010-3.jpeg?raw=true)
